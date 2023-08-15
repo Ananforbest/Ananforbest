@@ -1,5 +1,5 @@
 ### Hi, Ananforbest is here👋
-[![Ananforbest's github stats](https://github-readme-stats.vercel.app/api?username=ananforbest)](https://github.com/ananforbest/github-readme-stats)
+![Ananforbest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananforbest&show_icons=true&theme=radical)
 
 <!--
 **Ananforbest/Ananforbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
