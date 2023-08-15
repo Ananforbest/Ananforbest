@@ -1,11 +1,6 @@
 ### Hi, Ananforbest is here👋
-<div id="container">
-  <div id="menu" style="background-color:white;height:200px;width:500px;float:left;">
-    Welcome everyone to visit my [homepage](https://blog.csdn.net/AnAn_New?type=blog) at CSDN!</div>
-  <div id="content" class="content">
-    ![Ananforbest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananforbest&show_icons=true&theme=transparent)
-  </div>
-</div>
+Welcome everyone to visit my [homepage](https://blog.csdn.net/AnAn_New?type=blog) at CSDN!<br>
+![Ananforbest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananforbest&show_icons=true&theme=transparent)
 <!--
 **Ananforbest/Ananforbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
