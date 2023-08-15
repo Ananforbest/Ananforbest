@@ -1,7 +1,7 @@
 ### Hi, Ananforbest is here👋
 A student major in Microeletronic Science and Engineering🔭<br>
 Welcome everyone to my [homepage](https://blog.csdn.net/AnAn_New?type=blog) on CSDN!😄
-[![Ananforbest's github stats](https://github-readme-stats.vercel.app/api?username=ananforbest?theme=THEME_NAME radical)](https://github.com/ananforbest/github-readme-stats)
+[![Ananforbest's github stats](https://github-readme-stats.vercel.app/api?username=ananforbest)](https://github.com/ananforbest/github-readme-stats)
 
 <!--
 **Ananforbest/Ananforbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
